@@ -69,7 +69,8 @@
                 "array": false,
                 "object": false
             }
-        ]
+        ],
+        "linebreak-style": [0]
     },
     "plugins": [
         "react"
